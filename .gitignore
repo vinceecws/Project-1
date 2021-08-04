@@ -1,5 +1,9 @@
 ./target
 ./project
 
+.bloop
+.metals
+.vscode
+
 derby.log
 .DS_Store
